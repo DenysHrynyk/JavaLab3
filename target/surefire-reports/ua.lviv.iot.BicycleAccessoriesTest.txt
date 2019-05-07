@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ua.lviv.iot.BicycleAccessoriesTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 sec - in ua.lviv.iot.BicycleAccessoriesTest
